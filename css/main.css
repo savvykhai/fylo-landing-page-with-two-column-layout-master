@@ -81,6 +81,7 @@ HEADER SECTION
 	align-items: flex-end;
 	gap: 0.5em;
 	margin-right: 20px;
+	list-style-type: none;
 }
 
 @media screen and (min-width: 576px) {
